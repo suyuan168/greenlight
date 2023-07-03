@@ -47,28 +47,28 @@
 
 en:
   opengraph:
-    description: Learn using BigBlueButton, the trusted open-source web conferencing solution that enables seamless virtual collaboration and online learning experiences.
+    description: 使用55860.com蚂蚁聚合会议系统进行学习,这是值得信赖的网络会议解决方案,可实现无缝的虚拟协作和在线学习体验。
   meeting:
-    moderator_message: "To invite someone to the meeting, send them this link:"
-    access_code: "Access Code: %{code}"
+    moderator_message: "要邀请某人参加会议，请向他们发送此链接:"
+    access_code: "访问代码: %{code}"
   email:
     activation:
-      account_activation: Account Activation
-      welcome_to_bbb: Welcome to BigBlueButton!
-      get_started: To get started, please activate your account by clicking on the button below.
-      activate_account: Activate Account
-      link_expires: The link will expire in 24 hours.
-      if_link_expires: If the link expires, please log in and request a new activation email.
+      account_activation: 帐号激活
+      welcome_to_bbb: 欢迎来到蚂蚁聚合!
+      get_started: 首先，请点击下面的按钮激活您的帐户。
+      activate_account: 激活账户
+      link_expires: 该链接将在 24 小时后过期。
+      if_link_expires: 如果链接已过期,请登录并请求新的激活电子邮件.
     invitation:
-      invitation_to_join: BigBlueButton Invitation
-      you_have_been_invited: You have been invited to create a BigBlueButton account by %{name}.
-      get_started: To sign up, please click the button below and follow the steps.
-      valid_invitation: The invitation is valid for 24 hours.
-      sign_up: Sign Up
+      invitation_to_join: 蚂蚁聚合会议系统 邀请函
+      you_have_been_invited: 您已被邀请创建 蚂蚁聚合会议系统帐户 %{name}.
+      get_started: 要注册，请单击下面的按钮并按照步骤操作。
+      valid_invitation: 邀请函24小时内有效.
+      sign_up: 注册
     reset:
-      password_reset: Reset Password
-      password_reset_requested: A password reset has been requested for %{email}.
-      password_reset_confirmation: To reset your password, please click on the button below.
-      reset_password: Reset Password
-      link_expires: The link will expire in 1 hour.
-      ignore_request: If you did not make a request to change your password, please ignore this email.
+      password_reset: 找回密码
+      password_reset_requested: 已请求重置密码 %{email}.
+      password_reset_confirmation: 要重置您的密码，请单击下面的按钮.
+      reset_password: 重设密码
+      link_expires: 该链接将在 1 小时后过期。
+      ignore_request: 如果您没有提出更改密码的请求，请忽略这封电子邮件.

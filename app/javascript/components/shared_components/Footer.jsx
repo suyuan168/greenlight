@@ -28,7 +28,7 @@ export default function Footer() {
   return (
     <footer id="footer" className="footer background-whitesmoke text-center">
       <Container id="footer-container" className="py-3">
-        <a href="https://docs.bigbluebutton.org/greenlight/v3/install" target="_blank" rel="noreferrer">Greenlight</a>
+        <a href="https://55860.com" target="_blank" rel="noreferrer">openmptcprouter蚂蚁聚合视频会议系统</a>
         <span className="text-muted"> {env?.VERSION_TAG} </span>
         { links?.Terms
           && (

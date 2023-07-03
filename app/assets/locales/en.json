@@ -1,532 +1,532 @@
 {
-  "start": "Start",
-  "search": "Search",
-  "home": "Home",
-  "previous": "Previous",
-  "back": "Back",
-  "next": "Next",
-  "view": "View",
-  "join": "Join",
-  "edit": "Edit",
-  "save": "Save",
-  "save_changes": "Save Changes",
-  "update": "Update",
-  "report": "Report",
-  "share": "Share",
-  "cancel": "Cancel",
-  "close": "Close",
-  "delete": "Delete",
-  "copy": "Copy Join Link",
-  "or": "Or",
-  "online": "Online",
-  "help_center": "Help Center",
-  "are_you_sure": "Are you sure?",
-  "return_home": "Return Home",
-  "created_at": "Created at",
-  "view_recordings": "View Recordings",
-  "join_session": "Join Session",
-  "no_result_search_input": "Could not find any results for \"{{ searchInput }}\"",
-  "action_permanent": "This action cannot be undone.",
-  "homepage": {
-    "welcome_bbb": "Welcome to BigBlueButton.",
-    "bigbluebutton_description": "BigBlueButton is an open source web conferencing system for online classes. The platform maximizes time for applied learning by enabling students to collaborate and receive feedback in real-time.",
-    "greenlight_description": "Create your own rooms to host sessions, or join others using a short and convenient link.",
-    "learn_more": "Learn more about BigBlueButton",
-    "explore_features": "Explore our features",
-    "meeting_title": "Launch a meeting",
-    "meeting_description": "Launch a virtual class with video, audio, screen sharing, chat, and all the tools required for applied learning.",
-    "recording_title": "Record your meetings",
-    "recording_description": "Record the BigBlueButton meetings and share them with the students to review and reflect on the material.",
-    "settings_title": "Manage your rooms",
-    "settings_description": "Configure your rooms and meeting settings to be in charge of an effective classroom.",
-    "and_more_title": "And more!",
-    "and_more_description": "BigBlueButton offers built-in tools for applied learning and is designed to save you time during class.",
-    "enter_meeting_url": "Enter Meeting URL",
-    "enter_meeting_url_instruction": "Please enter the URL of your BigBlueButton meeting in the field below."
-  },
+  "start": "开始",
+  "search": "搜索",
+  "home": "首页",
+  "previous": "上一个",
+  "back": "返回",
+  "next": "下一个",
+  "view": "查看",
+  "join": "加入",
+  "edit": "编辑",
+  "save": "保存",
+  "save_changes": "保存修改",
+  "update": "更新",
+  "report": "报告",
+  "share": "分享",
+  "cancel": "返回",
+  "close": "关闭",
+  "delete": "删除",
+  "copy": "复制加入链接",
+  "or": "或",
+  "online": "在线",
+  "help_center": "帮助中心",
+  "are_you_sure": "你确定吗?",
+  "return_home": "返回首页",
+  "created_at": "创建于",
+  "view_recordings": "查看录制",
+  "join_session": "加入会话",
+  "no_result_search_input": "找不到结果 \"{{ searchInput }}\"",
+  "action_permanent": "此操作无法撤销.",
+    "homepage": {
+      "welcome_bbb": "欢迎来到55860蚂蚁聚合在线会议系统.",
+      "bigbluebutton_description": "55860蚂蚁聚合在线会议系统是一个用于在线课程的开源网络会议系统。该平台使学生能够远程视频写作并实时在线聊天反馈 支持录制、白板、最大支持低延迟1080P 、60帧高清画面.",
+      "greenlight_description": "创建您自己的房间来开始视频会议，或使用短连接方便其他人加入会议.",
+      "learn_more": "了解有关 55860蚂蚁聚合 的更多信息",
+      "explore_features": "探索我们的功能",
+      "meeting_title": "发起会议",
+      "meeting_description": "启动会议，提供视频、音频、屏幕共享、聊天以及应用学习所需的所有工具.",
+      "recording_title": "录制您的会议",
+      "recording_description": "记录 55860蚂蚁聚合 会议并与学生分享以回顾和反思材料.",
+      "settings_title": "管理您的房间",
+      "settings_description": "配置您的房间和会议设置以掌控有效的会议室.",
+      "and_more_title": "和更多!",
+      "and_more_description": "55860蚂蚁聚合 提供用于应用学习的内置工具，旨在节省您的课堂时间.",
+      "enter_meeting_url": "输入会议网址",
+      "enter_meeting_url_instruction": "请在下面的字段中输入您的 55860蚂蚁聚合 会议的 URL."
+    },
   "authentication": {
-    "sign_in": "Sign In",
-    "sign_up": "Sign Up",
-    "sign_out": "Sign Out",
+    "sign_in": "登录",
+    "sign_up": "注册",
+    "sign_out": "退出",
     "email": "Email",
-    "password": "Password",
-    "confirm_password": "Confirm Password",
-    "enter_email": "Enter your email",
-    "enter_name": "Enter your name",
-    "remember_me": "Remember Me",
-    "forgot_password": "Forgot password?",
-    "dont_have_account": "Don't have an account?",
-    "create_account": "Create Account",
-    "create_an_account": "Create an Account",
-    "already_have_account": "Already have an account?"
+    "password": "密码",
+    "confirm_password": "再次输入密码确认",
+    "enter_email": "输入你的 email",
+    "enter_name": "输入你的 名字",
+    "remember_me": "记住我",
+    "forgot_password": "忘记密码?",
+    "dont_have_account": "没有帐户？",
+    "create_account": "创建账户",
+    "create_an_account": "创建一个帐户",
+    "already_have_account": "已有账户?"
   },
   "user": {
-    "user": "User",
-    "users": "Users",
-    "name": "Name",
-    "email_address": "Email Address",
-    "authenticator": "Authenticator",
-    "full_name": "Full Name",
-    "no_user_found": "No user found",
-    "type_three_characters": "Please type three (3) characters or more to show the other users.",
-    "search_not_found": "No Users Found",
+    "user": "用户",
+    "users": "用户列表",
+    "name": "名字",
+    "email_address": "Email 地址",
+    "authenticator": "验证码",
+    "full_name": "全名",
+    "no_user_found": "没有找到用户",
+    "type_three_characters": "请输入三 (3) 个或更多字符以向其他用户显示.",
+    "search_not_found": "未找到相应的用户",
     "profile": {
-      "profile": "Profile",
-      "language": "Language",
-      "role": "Role",
-      "administrator": "Administrator",
-      "guest": "Guest"
+      "profile": "简介",
+      "language": "语言",
+      "role": "角色",
+      "administrator": "管理员",
+      "guest": "游客"
     },
     "account": {
-      "account_info": "Account Info",
-      "delete_account": "Delete Account",
-      "change_password": "Change Password",
-      "reset_password": "Reset Password",
-      "update_account_info": "Update Account Info",
-      "current_password": "Current Password",
-      "new_password": "New Password",
-      "confirm_password": "Confirm Password",
-      "permanently_delete_account": "Permanently Delete Your Account",
-      "delete_account_description": "If you choose to delete your account, it will NOT be recoverable. \n All information regarding your account, including settings, rooms, and recordings will be removed.",
-      "delete_account_confirmation": "Yes, I would like to delete my account",
-      "are_you_sure_delete_account": "Are you sure you want to delete your account?"
+      "account_info": "帐户信息",
+      "delete_account": "删除帐户",
+      "change_password": "更改密码",
+      "reset_password": "重设密码",
+      "update_account_info": "更新账户信息",
+      "current_password": "当前密码",
+      "new_password": "新密码",
+      "confirm_password": "确认密码",
+      "permanently_delete_account": "永久删除您的帐户",
+      "delete_account_description": "如果您选择删除您的帐户，则该帐户将无法恢复。 \n 有关您帐户的所有信息，包括设置、房间和录音都将被删除.",
+      "delete_account_confirmation": "是的，我想删除我的帐户",
+      "are_you_sure_delete_account": "您确定要删除您的帐户吗?"
     },
     "avatar": {
-      "upload_avatar": "Upload Avatar",
-      "delete_avatar": "Delete Avatar",
-      "crop_avatar": "Crop Your Avatar"
+      "upload_avatar": "上传头像",
+      "delete_avatar": "删除头像",
+      "crop_avatar": "裁剪你的头像"
     },
     "pending": {
-      "title": "Pending Registration",
-      "message": "Thank you for registering! Your account is currently pending approval by an administrator."
+      "title": "待注册",
+      "message": "感谢您注册！ 您的帐户目前正在等待管理员批准."
     }
   },
   "room": {
-    "room": "Room",
-    "rooms": "Rooms",
-    "room_name": "Room Name",
-    "add_new_room": "+ New Room",
-    "create_room": "Create Room",
-    "delete_room": "Delete Room",
-    "create_new_room": "Create New Room",
-    "enter_room_name": "Enter the room name",
-    "shared_by": "shared by ",
-    "last_session": "Last Session: {{ localizedTime }}",
-    "no_last_session": "No previous session created",
-    "search_not_found": "No Rooms Found",
-    "rooms_list_is_empty": "You don't have any rooms yet!",
-    "rooms_list_empty_create_room": "Create your first room by clicking on the button below and entering a room name.",
+    "room": "房间",
+    "rooms": "房间列表",
+    "room_name": "房间名字",
+    "add_new_room": "+ 新房间",
+    "create_room": "创建房间",
+    "delete_room": "删除房间",
+    "create_new_room": "创建新房间",
+    "enter_room_name": "输入房间名字",
+    "shared_by": "通过共享 ",
+    "last_session": "最后一次会议: {{ localizedTime }}",
+    "no_last_session": "没有创建先前的会话",
+    "search_not_found": "未找到房间",
+    "rooms_list_is_empty": "您还没有房间!",
+    "rooms_list_empty_create_room": "单击下面的按钮并输入房间名称来创建您的第一个房间。",
     "meeting": {
-      "start_meeting": "Start Meeting",
-      "join_meeting": "Join Meeting",
-      "meeting_invitation": "You have been invited to join",
-      "meeting_not_started": "The meeting has not started yet",
-      "join_meeting_automatically": "You will automatically join when the meeting starts",
-      "recording_consent": "I acknowledge that this session may be recorded. This may include my voice and video if enabled."
+      "start_meeting": "开始会议",
+      "join_meeting": "参加会议",
+      "meeting_invitation": "您已被邀请加入",
+      "meeting_not_started": "会议尚未开始",
+      "join_meeting_automatically": "会议开始时您将自动加入",
+      "recording_consent": "我承认本次会议可能会被录音。 如果启用，这可能包括我的语音和视频."
     },
     "presentation": {
-      "presentation": "Presentation",
-      "click_to_upload": "Click to Upload",
-      "drag_and_drop": " or drag and drop",
-      "upload_description": "Upload any office document or PDF file (not larger than {{size}}). Depending on the size of the file, it may require additional time to upload before it can be used",
-      "are_you_sure_delete_presentation": "Are you sure you want to delete this presentation?"
+      "presentation": "演示文稿",
+      "click_to_upload": "点击上传",
+      "drag_and_drop": " 或拖放",
+      "upload_description": "上传任何 Office 文档或 PDF 文件（不大于 {{size}}）。 根据文件的大小，可能需要额外的时间上传才能使用",
+      "are_you_sure_delete_presentation": "您确定要删除此演示文稿吗?"
     },
     "shared_access": {
-      "access": "Access",
-      "add_share_access": "+ Share Access",
-      "share_room_access": "Share Room Access",
-      "add_some_users": "Time to add some users!",
-      "add_some_users_description": "To add new users, click the button below and search or select the users you want to share this room with.",
-      "delete_shared_access": "Delete Shared Access",
-      "are_you_sure_delete_shared_access": "Are you sure you want to delete this Shared Access?"
+      "access": "访问",
+      "add_share_access": "+ 分享访问",
+      "share_room_access": "分享房间使用权",
+      "add_some_users": "是时候添加一些用户了!",
+      "add_some_users_description": "要添加新用户，请单击下面的按钮并搜索或选择您想要与其共享此房间的用户.",
+      "delete_shared_access": "删除分享访问",
+      "are_you_sure_delete_shared_access": "您确定要删除此分享访问权限吗?"
     },
     "settings": {
-      "settings": "Settings",
-      "room_name": "Room Name",
-      "user_settings": "User Settings",
-      "allow_room_to_be_recorded": "Allow room to be recorded",
-      "require_signed_in": "Require users to be signed in before joining",
-      "require_signed_in_message": "You must be signed in to join this room.",
-      "require_mod_approval": "Require moderator approval before joining",
-      "allow_any_user_to_start": "Allow any user to start this meeting",
-      "all_users_join_as_mods": "All users join as moderators",
-      "mute_users_on_join": "Mute users when they join",
-      "generate": "Generate",
-      "access_code": "Access Code",
-      "mod_access_code": "Moderator Access Code",
-      "mod_access_code_optional": "Moderator Access Code (optional)",
-      "access_code_required": "Please enter the access code",
-      "wrong_access_code": "Wrong Access Code",
-      "generate_viewers_access_code": "Generate access code for viewers",
-      "generate_mods_access_code": "Generate access code for moderators",
-      "are_you_sure_delete_room": "Are you sure you want to delete this room?"
+      "settings": "设置",
+      "room_name": "房间名称",
+      "user_settings": "用户设置",
+      "allow_room_to_be_recorded": "允许记录房间",
+      "require_signed_in": "要求用户在加入之前先登录",
+      "require_signed_in_message": "您必须登录才能加入此房间.",
+      "require_mod_approval": "加入前需要批准",
+      "allow_any_user_to_start": "允许任何用户开始此会议",
+      "all_users_join_as_mods": "所有用户都以房主身份加入",
+      "mute_users_on_join": "用户加入时将其静音",
+      "generate": "生成",
+      "access_code": "访问代码",
+      "mod_access_code": "主持人访问代码",
+      "mod_access_code_optional": "主持人访问代码（可选）",
+      "access_code_required": "请输入访问代码",
+      "wrong_access_code": "访问代码错误",
+      "generate_viewers_access_code": "为观众生成访问代码",
+      "generate_mods_access_code": "为房主生成访问代码",
+      "are_you_sure_delete_room": "您确定要删除该房间吗?"
     }
   },
   "recording": {
-    "recording": "Recording",
-    "recordings": "Recordings",
-    "name": "Name",
-    "length": "Length",
-    "users": "Users",
-    "visibility": "Visibility",
-    "formats": "Formats",
-    "published": "Published",
-    "unpublished": "Unpublished",
-    "protected": "Protected",
-    "public": "Public",
-    "public_protected": "Public/Protected",
+    "recording": "录制",
+    "recordings": "录制中",
+    "name": "名字",
+    "length": "长度",
+    "users": "用户列表",
+    "visibility": "可见性",
+    "formats": "格式",
+    "published": "已发表",
+    "unpublished": "未发表",
+    "protected": "受保护",
+    "public": "公开",
+    "public_protected": "公开/受保护",
     "length_in_minutes": "{{recording.length}} min.",
-    "processing_recording": "Processing recording, this may take several minutes...",
-    "copy_recording_urls": "Copy Recording Url(s)",
-    "recordings_list_empty": "You don't have any recordings yet!",
-    "public_recordings_list_empty": "There are no public recordings yet!",
-    "recordings_list_empty_description": "Recordings will appear here after you start a meeting and record it.",
-    "public_recordings_list_empty_description": "Recordings will appear here when available.",
-    "delete_recording": "Delete Recording",
-    "are_you_sure_delete_recording": "Are you sure you want to delete this recording?",
-    "search_not_found": "No Recordings Found"
+    "processing_recording": "处理录制，这可能需要几分钟。..",
+    "copy_recording_urls": "复制录制网址(s)",
+    "recordings_list_empty": "您还没有任何录制!",
+    "public_recordings_list_empty": "还没有公开录制!",
+    "recordings_list_empty_description": "开始会议并录制后，将显示在此处.",
+    "public_recordings_list_empty_description": "录制可用时将显示在此处.",
+    "delete_recording": "删除录制",
+    "are_you_sure_delete_recording": "您确定要删除此录制吗?",
+    "search_not_found": "未找到任何录制"
   },
   "admin": {
-    "admin_panel": "Administrator Panel",
+    "admin_panel": "管理员面板",
     "manage_users": {
-      "manage_users": "Manage Users",
-      "active": "Active",
-      "approve": "Approve",
-      "decline": "Decline",
-      "pending": "Pending",
-      "banned": "Banned",
-      "ban": "Ban",
-      "unban": "Unban",
-      "deleted": "Deleted",
-      "invited_tab": "Invited",
-      "invite_user": "Invite User",
-      "send_invitation": "Send Invitation",
-      "enter_user_email": "Enter user's email",
-      "new_user": "New User",
-      "add_new_user": "New User",
-      "create_new_user": "Create New User",
-      "edit_user": "Edit User",
-      "delete_user": "Delete User",
-      "users_edit_path": "Users/Edit",
-      "create_account": "Create Account",
-      "create_room": "Create Room",
-      "create_new_room": "Create New Room",
-      "user_created_at": "Created: {{localizedTime}}",
-      "are_you_sure_delete_account": "Are you sure you want to delete {{user.name}}'s account?",
-      "delete_account_warning": "If you choose to delete this account, it will NOT be recoverable.",
-      "empty_active_users": "There are no active users on this server yet!",
-      "empty_active_users_subtext": "When a user's status gets changed to active, they will appear here.",
-      "empty_pending_users": "There are no pending users on this server yet!",
-      "empty_pending_users_subtext": "When a user's status gets changed to pending, they will appear here.",
-      "empty_banned_users": "There are no banned users on this server yet!",
-      "empty_banned_users_subtext": "When a user's status gets changed to banned, they will appear here.",
-      "empty_invited_users": "There are no invited users on this server yet!",
-      "empty_invited_users_subtext": "When a user's status gets changed to invited, they will appear here.",
+      "manage_users": "管理用户",
+      "active": "活跃",
+      "approve": "批准",
+      "decline": "拒绝",
+      "pending": "待定",
+      "banned": "禁止",
+      "ban": "禁",
+      "unban": "解除",
+      "deleted": "已删除",
+      "invited_tab": "受邀",
+      "invite_user": "邀请用户",
+      "send_invitation": "发送邀请",
+      "enter_user_email": "输入用户的电子邮件",
+      "new_user": "新用户",
+      "add_new_user": "新用户",
+      "create_new_user": "创建新用户",
+      "edit_user": "编辑用户",
+      "delete_user": "删除用户",
+      "users_edit_path": "用户/编辑",
+      "create_account": "创建账户",
+      "create_room": "创建房间",
+      "create_new_room": "创建新房间",
+      "user_created_at": "创建: {{localizedTime}}",
+      "are_you_sure_delete_account": "您确定要删除 {{user.name}} 的帐户吗?",
+      "delete_account_warning": "如果您选择删除该帐户，则该帐户将无法恢复。",
+      "empty_active_users": "该服务器上还没有活跃用户!",
+      "empty_active_users_subtext": "当用户的状态更改为活动时，他们将出现在此处。",
+      "empty_pending_users": "该服务器上还没有待处理的用户!",
+      "empty_pending_users_subtext": "当用户的状态更改为待处理时，他们将显示在此处.",
+      "empty_banned_users": "该服务器上还没有被禁止的用户!",
+      "empty_banned_users_subtext": "当用户的状态更改为禁止时，他们将显示在此处.",
+      "empty_invited_users": "该服务器上还没有受邀请的用户!",
+      "empty_invited_users_subtext": "当用户的状态更改为受邀请时，他们将显示在此处.",
       "invited": {
-        "time_sent": "Time Sent",
-        "valid": "Valid"
+        "time_sent": "发送时间",
+        "valid": "有效的"
       }
     },
     "server_rooms": {
-      "server_rooms": "Server Rooms",
-      "name": "Name",
-      "owner": "Owner",
-      "room_id": "Room ID",
-      "participants": "Participants",
-      "status": "Status",
-      "running": "Running",
-      "not_running": "Not Running",
-      "active": "Active",
-      "current_session": "Current Session: {{lastSession}}",
-      "last_session": "Last Session: {{localizedTime}}",
-      "no_meeting_yet": "No meeting yet.",
-      "delete_server_rooms": "Delete Server Room",
-      "resync_recordings": "Re-Sync Recordings",
-      "empty_room_list": "There are no server rooms yet!",
-      "empty_room_list_subtext": "Rooms will appear here after creating your first room."
+      "server_rooms": "服务器房间",
+      "name": "名称",
+      "owner": "所有者",
+      "room_id": "房间 ID",
+      "participants": "参加者",
+      "status": "状态",
+      "running": "运行",
+      "not_running": "没有运行",
+      "active": "活跃",
+      "current_session": "当前会话：{{lastSession}}",
+      "last_session": "最后一次会议：{{localizedTime}}",
+      "no_meeting_yet": "还没有会议.",
+      "delete_server_rooms": "删除房间",
+      "resync_recordings": "重新同步录制",
+      "empty_room_list": "还没有服务器房间!",
+      "empty_room_list_subtext": "创建第一个房间后，房间将出现在此处."
     },
     "server_recordings": {
-      "server_recordings": "Server Recordings",
-      "latest_recordings": "Latest Recordings",
-      "no_recordings_found": "No recordings found."
+      "server_recordings": "服务器录制",
+      "latest_recordings": "最新录制",
+      "no_recordings_found": "没有找到录制."
     },
     "site_settings": {
-      "site_settings": "Site Settings",
-      "customize_greenlight": "Customize Greenlight",
+      "site_settings": "站点设置",
+      "customize_greenlight": "定制面板",
       "appearance": {
-        "appearance": "Appearance",
-        "brand_color": "Brand Color",
-        "regular": "Regular",
-        "lighten": "Lighten",
-        "brand_image": "Brand Image",
-        "click_to_upload": "Click to Upload",
-        "drag_and_drop": " or drag and drop",
-        "upload_brand_image_description": "Upload any PNG, JPG, or SVG file (not larger than {{size}}). Depending on the size of the file, it may require additional time to upload before it can be used",
-        "remove_branding_image": "Remove Branding Image"
+        "appearance": "外观",
+        "brand_color": "品牌颜色",
+        "regular": "常规的",
+        "lighten": "发亮",
+        "brand_image": "品牌形象",
+        "click_to_upload": "点击上传",
+        "drag_and_drop": " 或拖放",
+        "upload_brand_image_description": "上传任何 PNG、JPG 或 SVG 文件（不大于 {{size}}）。 根据文件的大小，可能需要额外的时间上传才能使用",
+        "remove_branding_image": "删除品牌形象"
       },
       "administration": {
-        "administration": "Administration",
-        "terms": "Terms & Conditions",
-        "privacy": "Privacy Policy",
-        "privacy_policy": "Privacy Policy",
-        "change_term_links": "Change the terms links that appears at the bottom of the page",
-        "change_privacy_link": "Change the privacy link that appears at the bottom of the page",
+        "administration": "管理员",
+        "terms": "条款与协议s",
+        "privacy": "隐私政策",
+        "privacy_policy": "隐私政策",
+        "change_term_links": "更改页面底部显示的术语链接",
+        "change_privacy_link": "更改页面底部显示的隐私链接",
         "change_url": "Change URL",
         "enter_link": "Enter link here"
       },
       "settings": {
-        "settings": "Settings",
-        "allow_users_to_share_rooms": "Allow Users to Share Rooms",
-        "allow_users_to_share_rooms_description": "Setting to disabled will remove the button from the room options dropdown, preventing users from sharing rooms",
-        "allow_users_to_preupload_presentation": "Allow Users to Preupload Presentations",
-        "allow_users_to_preupload_presentation_description": "Users can preupload a presentation to be used as the default presentation for that specific room"
+        "settings": "设置",
+        "allow_users_to_share_rooms": "允许用户共享房间",
+        "allow_users_to_share_rooms_description": "设置为禁用将从房间选项下拉列表中删除该按钮，从而阻止用户共享房间",
+        "allow_users_to_preupload_presentation": "允许用户预先上传演示文稿",
+        "allow_users_to_preupload_presentation_description": "用户可以预先上传演示文稿以用作该特定房间的默认演示文稿"
       },
       "registration": {
-        "registration": "Registration",
-        "role_mapping_by_email": "Role Mapping By Email",
+        "registration": "注册",
+        "role_mapping_by_email": "通过电子邮件进行注册",
         "role_mapping_by_email_description": "Map the user to a role using their email. Must be in the format: role1=email1, role2=email2",
         "enter_role_mapping_rule": "Enter a role mapping rule",
-        "resync_on_login": "Resync User Data On Every Sign In",
-        "resync_on_login_description": "Resync a user's information every time they sign in, making the external authentication provider always match the information in Greenlight",
-        "default_role": "Default Role",
-        "default_role_description": "The default role to be assigned to newly created users",
-        "registration_method": "Registration Method",
-        "registration_method_description": "Change the way that users register to the website",
+        "resync_on_login": "每次登录时重新同步用户数据",
+        "resync_on_login_description": "每次登录时重新同步用户的信息，使外部身份验证提供商始终与 站点 中的信息匹配",
+        "default_role": "默认角色",
+        "default_role_description": "分配给新创建用户的默认角色",
+        "registration_method": "注册方式",
+        "registration_method_description": "更改用户注册网站的方式",
         "registration_methods" : {
-          "open": "Open Registration",
-          "invite": "Join by Invitation",
-          "approval": "Approve/Decline"
+          "open": "开放注册",
+          "invite": "邀请注册",
+          "approval": "批准/拒绝"
         }
       }
     },
     "room_configuration": {
-      "room_configuration": "Room Configuration",
-      "default": "Optional (default: enabled)",
-      "optional": "Optional (default: disabled)",
-      "enabled": "Force Enabled",
-      "disabled": "Disabled",
+      "room_configuration": "房间配置",
+      "default": "选择 (default: 开启)",
+      "optional": "选择 (default: 关闭)",
+      "enabled": "强制启用",
+      "disabled": "关闭",
       "configurations": {
-        "allow_room_to_be_recorded": "Allow Room to be recorded",
-        "allow_room_to_be_recorded_description": "Allows room owners to specify whether they want the option to record a room or not. If enabled, the moderator must still click the 'Record' button once the meeting has started.",
-        "require_user_signed_in": "Require users to be signed in before joining",
-        "require_user_signed_in_description": "Only allows users with a Greenlight account to join the meeting. If they are not signed in, they will be redirected to the login page when attempting to join a room.",
-        "require_mod_approval": "Require moderator approval before joining",
-        "require_mod_approval_description": "Prompts the moderator of the BigBlueButton meeting when a user tries to join. If the user is approved, they will be able to join the meeting.",
-        "allow_any_user_to_start_meeting": "Allow any user to start a meeting",
-        "allow_any_user_to_start_meeting_description": "Allow any user to start the meeting at any time. By default, only the room owner can start the meeting.",
-        "allow_users_to_join_as_mods": "All users join as moderators",
-        "allow_users_to_join_as_mods_description": "Gives all users the moderator privileges in BigBlueButton when they join the meeting",
-        "mute_users_on_join": "Mute users when they join",
-        "mute_users_on_join_description": "Automatically mutes the user when they join the BigBlueButton meeting",
-        "viewer_access_code": "Viewer Access Code",
-        "viewer_access_code_description": "Allows room owners to have a random alphanumeric code that can be shared with users. The code, if generated, will be required for users to join the room meetings.",
-        "mod_access_code": "Moderator Access Code",
-        "mod_access_code_description": "Allows room owners to have a random alphanumeric code that can be shared with users. The code, if generated, will not be required and when used on any room meeting will join the user as a moderator."
+        "allow_room_to_be_recorded": "允许录制房间",
+        "allow_room_to_be_recorded_description": "允许房间所有者指定他们是否想要录制房间的选项。 如果启用，会议开始后主持人仍必须单击“录制”按钮。",
+        "require_user_signed_in": "要求用户在加入之前先登录",
+        "require_user_signed_in_description": "仅允许拥有 帐户的用户加入会议。 如果他们未登录，则在尝试加入房间时将被重定向到登录页面。",
+        "require_mod_approval": "加入前需要版主批准",
+        "require_mod_approval_description": "当用户尝试加入时提示会议的主持人。 如果用户获得批准，他们将能够加入会议.",
+        "allow_any_user_to_start_meeting": "允许任何用户开始会议",
+        "allow_any_user_to_start_meeting_description": "允许任何用户随时开始会议。 默认情况下，只有房间所有者可以开始会议.",
+        "allow_users_to_join_as_mods": "所有用户都以版主身份加入",
+        "allow_users_to_join_as_mods_description": "当所有用户加入会议时，为他们授予主持人权限",
+        "mute_users_on_join": "用户加入时将其静音",
+        "mute_users_on_join_description": "当用户加入会议时自动将用户静音",
+        "viewer_access_code": "查看者访问代码",
+        "viewer_access_code_description": "允许房间所有者拥有可与用户共享的随机字母数字代码。 如果生成了该代码，用户将需要该代码才能加入会议室会议.",
+        "mod_access_code": "主持人访问代码",
+        "mod_access_code_description": "允许房间所有者拥有可与用户共享的随机字母数字代码。 该代码（如果生成）将不需要，并且在任何房间会议上使用时都会以主持人身份加入用户."
       }
     },
     "roles": {
-      "role": "Role",
-      "roles": "Roles",
-      "administrator": "Administrator",
-      "guest": "Guest",
-      "manage_roles": "Manage Roles",
-      "delete_role": "Delete Role",
-      "are_you_sure_delete_role": "Are you sure you want to delete this role?",
-      "enter_role_name": "Enter a role name",
-      "add_role": "+ Create Role",
-      "create_role": "Create Role",
-      "create_new_role": "Create a new role",
-      "no_role_found": "No role found.",
-      "search_not_found": "No Roles Found",
+      "role": "角色",
+      "roles": "角色列表",
+      "administrator": "管理员",
+      "guest": "游客",
+      "manage_roles": "管理角色",
+      "delete_role": "删除角色",
+      "are_you_sure_delete_role": "您确定要删除该角色吗?",
+      "enter_role_name": "输入角色名称",
+      "add_role": "+ 创建角色",
+      "create_role": "创建角色",
+      "create_new_role": "创建新角色",
+      "no_role_found": "没有找到角色.",
+      "search_not_found": "未找到角色",
       "edit": {
-        "create_room": "Allow users with this role to create rooms",
-        "record": "Allow users with this role to record their meetings",
-        "manage_users": "Allow users with this role to manage users",
-        "manage_rooms": "Allow users with this role to manage server rooms",
-        "manage_recordings": "Allow users with this role to manage server recordings",
-        "manage_site_settings": "Allow users with this role to manage site settings",
-        "manage_roles": "Allow users with this role to edit other roles",
-        "shared_list": "Include users with this role in the dropdown for sharing rooms",
-        "room_limit": "Room Limit"
+        "create_room": "允许具有此角色的用户创建房间",
+        "record": "允许具有此角色的用户录制他们的会议",
+        "manage_users": "允许具有此角色的用户管理用户",
+        "manage_rooms": "允许具有此角色的用户管理服务器房间",
+        "manage_recordings": "允许具有此角色的用户管理服务器录制",
+        "manage_site_settings": "允许具有此角色的用户管理站点设置",
+        "manage_roles": "允许具有此角色的用户编辑其他角色",
+        "shared_list": "在共享房间的下拉列表中包含具有此角色的用户",
+        "room_limit": "房间限制"
       }
     }
   },
   "toast": {
     "success": {
       "user": {
-        "user_created": "A new user has been created.",
-        "user_updated": "The user has been updated.",
-        "user_deleted": "The user has been deleted.",
-        "avatar_updated": "The avatar has been updated.",
-        "password_updated": "The password has been updated.",
-        "account_activated": "Your account has been activated.",
-        "activation_email_sent": "An email that contains the instructions to activate your account has been sent.",
-        "reset_pwd_email_sent": "An email that contains the instructions to reset your password has been sent."
+        "user_created": "新用户已创建.",
+        "user_updated": "用户已更新.",
+        "user_deleted": "该用户已被删除.",
+        "avatar_updated": "头像已更新.",
+        "password_updated": "密码已更新.",
+        "account_activated": "您的帐号已经激活.",
+        "activation_email_sent": "一封包含激活您帐户说明的电子邮件已发送.",
+        "reset_pwd_email_sent": "包含重置密码说明的电子邮件已发送."
       },
       "session": {
-        "signed_out": "You have been signed out."
+        "signed_out": "您已退出."
       },
       "room": {
-        "room_created": "A new room has been created.",
-        "room_updated": "The room has been updated.",
-        "room_deleted": "The room has been deleted.",
-        "room_shared": "The room has been shared.",
-        "room_unshared": "The room has been unshared.",
-        "recordings_synced": "The room recordings have been synchronized.",
-        "room_configuration_updated": "The room configuration have been updated.",
-        "room_setting_updated": "The room setting has been updated.",
-        "presentation_updated": "The presentation has been updated.",
-        "presentation_deleted": "The presentation has been deleted.",
-        "joining_meeting": "Joining the meeting...",
-        "meeting_started": "Meeting started.",
-        "access_code_copied": "The access code has been copied.",
-        "access_code_generated": "A new access code has been generated.",
-        "access_code_deleted": "The access code has been deleted.",
-        "copied_meeting_url": "The meeting URL has been copied. The link can be used to join the meeting."
+        "room_created": "一个新房间已创建.",
+        "room_updated": "房间已更新.",
+        "room_deleted": "房间已被删除.",
+        "room_shared": "房间已被共享.",
+        "room_unshared": "房间已取消共享.",
+        "recordings_synced": "房间录制已同步.",
+        "room_configuration_updated": "房间配置已更新.",
+        "room_setting_updated": "房间设置已更新.",
+        "presentation_updated": "演示文稿已更新.",
+        "presentation_deleted": "该演示文稿已被删除.",
+        "joining_meeting": "加入会议...",
+        "meeting_started": "会议开始.",
+        "access_code_copied": "访问代码已被复制.",
+        "access_code_generated": "新的访问代码已生成.",
+        "access_code_deleted": "访问代码已被删除.",
+        "copied_meeting_url": "会议 URL 已复制。 该链接可用于加入会议."
       },
       "site_settings": {
-        "site_setting_updated": "The site setting has been updated.",
-        "brand_color_updated": "The brand color has been updated.",
-        "brand_image_updated": "The brand image has been updated.",
-        "brand_image_deleted": "The brand image has been deleted.",
-        "privacy_policy_updated": "The privacy policy has been updated.",
-        "terms_of_service_updated": "The terms of service have been updated."
+        "site_setting_updated": "站点设置已更新.",
+        "brand_color_updated": "品牌颜色已更新.",
+        "brand_image_updated": "品牌形象已更新.",
+        "brand_image_deleted": "品牌形象已被删除.",
+        "privacy_policy_updated": "隐私政策已更新.",
+        "terms_of_service_updated": "服务条款已更新."
       },
       "recording": {
-        "recording_visibility_updated": "The recording visibility has been updated.",
-        "recording_name_updated": "The recording name has been updated.",
-        "recording_deleted": "The recording has been deleted.",
-        "copied_urls": "The recording URLs have been copied."
+        "recording_visibility_updated": "录制可见性已更新.",
+        "recording_name_updated": "录制名称已更新.",
+        "recording_deleted": "录制已被删除.",
+        "copied_urls": "录制地址已复制."
       },
       "role": {
-        "role_created": "A new role has been created.",
-        "role_updated": "The role has been updated.",
-        "role_deleted": "The role has been deleted.",
-        "role_permission_updated": "The role permission has been updated."
+        "role_created": "新角色已创建.",
+        "role_updated": "角色已更新.",
+        "role_deleted": "该角色已被删除.",
+        "role_permission_updated": "角色权限已更新."
       },
       "invitations": {
-        "invitation_sent": "An invitation has been sent."
+        "invitation_sent": "邀请已发送."
       }
     },
     "error": {
-      "problem_completing_action": "The action can't be completed. \n Please try again.",
-      "file_type_not_supported": "The file type is not supported.",
-      "file_size_too_large": "The file size is too large.",
-      "file_upload_error": "The file can't be uploaded.",
-      "signin_required": "You must be signed in to access this page.",
+      "problem_completing_action": "该操作无法完成。 \n 请重试.",
+      "file_type_not_supported": "不支持该文件类型.",
+      "file_size_too_large": "文件太大.",
+      "file_upload_error": "文件无法上传.",
+      "signin_required": "您必须登录才能访问此页面.",
       "roles": {
-        "role_assigned": "This role can't be deleted because it is assigned to at least one user."
+        "role_assigned": "无法删除此角色，因为它已分配给至少一个用户."
       },
       "users": {
-        "signup_error": "You can't be authenticated. Please contact your administrator.",
-        "invalid_invite": "Your invitation token is either invalid or incorrect. Please contact your administrator to receive a new token.",
-        "email_exists": "An account under this email already exists. Please try again with another email.",
-        "old_password": "The password you have entered is incorrect.",
-        "pending": "Your registration is pending approval from the administrator. Please try again later.",
-        "banned": "You do not have access to this application. Please contact your administrator if you believe this is a mistake."
+        "signup_error": "您无法通过身份验证。 请联系您的管理员.",
+        "invalid_invite": "您的邀请令牌无效或不正确。 请联系您的管理员以获取新令牌.",
+        "email_exists": "该电子邮件下的帐户已存在。 请使用其他电子邮件重试.",
+        "old_password": "您输入的密码不正确.",
+        "pending": "您的注册正在等待管理员的批准。 请稍后再试。",
+        "banned": "您无权访问此应用程序。 如果您认为这是一个错误，请联系您的管理员."
       },
       "rooms": {
-        "room_limit": "The room can't be created due to reaching the room limit."
+        "room_limit": "由于达到房间限制，无法创建房间."
       },
       "session": {
-        "invalid_credentials": "The username or password is invalid. Please verify your credentials and try again."
+        "invalid_credentials": "用户名或密码无效。 请验证您的凭据并重试."
       }
     }
   },
   "global_error_page": {
-    "title": "Error",
-    "message": "Sorry, something went wrong. If the incident occurs again, please contact the administrator."
+    "title": "错误",
+    "message": "抱歉，出了一些问题。 如果再次发生该事件，请联系管理员."
   },
   "not_found_error_page": {
-    "title": "Page Not Found",
-    "message": "Sorry, the page you are trying to access can't be found."
+    "title": "找不到网页",
+    "message": "抱歉，找不到您要访问的页面."
   },
   "account_activation_page": {
-    "title": "Account Activation",
-    "account_unverified": "Your account has not been verified yet.",
-    "message": "In order to use Greenlight, please verify your account by following the instructions in the activation email that has been sent to you.",
-    "resend_activation_link": "If you haven't received an activation email or if you are having a problem using it, click on the button below to request a new activation email.",
-    "resend_btn_lbl": "Resend Verification"
+    "title": "帐号激活",
+    "account_unverified": "您的帐户尚未经过验证.",
+    "message": "为了使用会议系统，请按照发送给您的激活电子邮件中的说明验证您的帐户.",
+    "resend_activation_link": "如果您没有收到激活电子邮件或者使用时遇到问题，请单击下面的按钮请求新的激活电子邮件.",
+    "resend_btn_lbl": "重新发送验证"
   },
   "forms": {
     "validations": {
       "full_name": {
-        "required": "Please enter a full name",
-        "min": "Name must be at least 2 characters long",
-        "max": "Name must be at most 255 characters long"
+        "required": "请输入全名",
+        "min": "名称长度必须至少为 2 个字符",
+        "max": "名称长度不得超过 255 个字符"
       },
       "email": {
-        "required": "Please enter an email",
-        "email": "Entered value does not match email format",
-        "min": "Email must be at least 6 characters long",
-        "max": "Email must be at most 255 characters long"
+        "required": "请输入电子邮件",
+        "email": "输入的值与电子邮件格式不匹配",
+        "min": "电子邮件长度必须至少为 6 个字符",
+        "max": "电子邮件长度不得超过 255 个字符"
       },
       "password": {
-        "required": "Please enter a password",
-        "match": "Password must have at least:",
-        "min": "- Eight characters",
-        "lower": "- One lowercase letter",
-        "upper": "- One uppercase letter",
-        "digit": "- One digit",
-        "symbol": "- One symbol",
-        "max": "Password must be at most 255 characters long"
+        "required": "请输入密码",
+        "match": "密码必须至少有:",
+        "min": "- 8个字符",
+        "lower": "- 一个小写字母",
+        "upper": "- 一个大写字母",
+        "digit": "- 一个数字",
+        "symbol": "-一个符号",
+        "max": "密码长度不得超过 255 个字符"
       },
       "password_confirmation": {
-        "required": "Please enter a password confirmation",
-        "match": "The passwords do not match"
+        "required": "请输入密码确认",
+        "match": "密码不匹配"
       },
       "emails": {
-        "required": "Please enter at least one valid email",
-        "list": "Please provide a comma separated list of valid emails (user@users.com,user1@users.com,user2@users.com)"
+        "required": "请输入至少一封有效的电子邮件",
+        "list": "请提供以逗号分隔的有效电子邮件列表（user@users.com、user1@users.com、user2@users.com）"
       },
       "role_name": {
-        "required": "Please enter the role name"
+        "required": "请输入角色名称"
       },
       "role": {
         "limit": {
-          "required": "Please enter the room count limit",
-          "min": "Allowed minimum is 0",
-          "max": "Allowed maximum is 100"
+          "required": "请输入房间数限制",
+          "min": "允许的最小值是 0",
+          "max": "允许的最大值是 100"
         },
         "type": {
-          "error": "You must specify a number"
+          "error": "您必须指定一个数字"
         }
       },
       "room": {
         "name": {
-          "required": "Please enter the room name.",
-          "min": "Name must be at least 2 characters long"
+          "required": "请输入房间名称.",
+          "min": "名称长度必须至少为 2 个字符"
         }
       },
       "room_join": {
         "name": {
-          "required": "Please enter your name."
+          "required": "请输入你的名字."
         }
       },
       "url": {
-        "invalid": "Invalid URL"
+        "invalid": "无效的网址"
       }
     },
     "room": {
       "fields": {
         "name": {
-          "label": "Room Name",
-          "placeholder": "Enter a room name..."
+          "label": "房间名称",
+          "placeholder": "输入房间名称..."
         }
       }
     },
     "room_join": {
       "fields": {
         "name": {
-            "label": "Name",
-            "placeholder": "Enter your name"
+            "label": "姓名",
+            "placeholder": "输入你的名字"
         },
         "access_code": {
-          "label": "Access Code",
-          "placeholder": "Enter the access code"
+          "label": "访问代码",
+          "placeholder": "输入访问代码"
         },
         "recording_consent": {
-          "label": "I acknowledge that this session may be recorded. This may include my voice and video if enabled."
+          "label": "我同意本次会议可能会被录制。 如果启用，这可能包括我的语音和视频."
         }
       }
     },
@@ -534,20 +534,20 @@
       "signup": {
         "fields": {
           "full_name": {
-            "label": "Full Name",
-            "placeholder": "Enter your full name"
+            "label": "全名",
+            "placeholder": "输入您的全名"
           },
           "email": {
-            "label": "Email",
-            "placeholder": "Enter your email"
+            "label": "电子邮件",
+            "placeholder": "输入你的电子邮箱"
           },
           "password": {
-            "label": "Password",
-            "placeholder": "Create a password"
+            "label": "密码",
+            "placeholder": "创建密码"
           },
           "password_confirmation": {
-            "label": "Confirm Password",
-            "placeholder": "Confirm password"
+            "label": "确认密码",
+            "placeholder": "确认密码"
           }
         }
       },
@@ -558,32 +558,32 @@
             "placeholder": "Email"
           },
           "password": {
-            "label": "Password",
-            "placeholder": "Password"
+            "label": "密码",
+            "placeholder": "密码"
           },
           "remember_me": {
-            "label": "Remember me"
+            "label": "记住我"
           }
         }
       },
       "change_password": {
         "fields": {
           "old_password": {
-            "label": "Current Password",
-            "placeholder": "Enter your password"
+            "label": "当前密码",
+            "placeholder": "输入您的密码"
           },
           "new_password": {
-            "label": "New Password",
-            "placeholder": "Enter your new password"
+            "label": "新密码",
+            "placeholder": "输入您的新密码"
           },
           "password_confirmation": {
-            "label": "Confirm password",
-            "placeholder": "Confirm your new password"
+            "label": "确认密码",
+            "placeholder": "确认您的新密码"
           }
         },
         "validations": {
           "old_password": {
-            "required": "Please enter your current password"
+            "required": "请输入您当前的密码"
           }
         }
       },
@@ -591,40 +591,40 @@
         "fields": {
           "email": {
             "label": "Email",
-            "placeholder": "Enter the account email"
+            "placeholder": "输入账户email"
           }
         },
         "validations": {
           "email": {
-            "required": "Please enter the account email"
+            "required": "请输入帐号 email"
           }
         }
       },
       "reset_password": {
         "fields": {
           "new_password": {
-            "label": "New Password",
-            "placeholder": "Enter your new password"
+            "label": "新密码",
+            "placeholder": "输入您的新密码"
           },
           "password_confirmation": {
-            "label": "Confirm password",
-            "placeholder": "Confirm your new password"
+            "label": "确认密码",
+            "placeholder": "确认您的新密码"
           }
         }
       },
       "update_user": {
         "fields": {
           "full_name": {
-            "label": "Full Name"
+            "label": "全名"
           },
           "email": {
             "label": "Email"
           },
           "language": {
-            "label": "Language"
+            "label": "语言"
           },
           "role": {
-            "label": "Role"
+            "label": "角色"
           }
         }
       }
@@ -633,20 +633,20 @@
       "createUser": {
         "fields": {
           "full_name": {
-            "label": "Full Name",
-            "placeholder": "Enter the user full name"
+            "label": "全名",
+            "placeholder": "输入用户全名"
           },
           "email": {
             "label": "Email",
-            "placeholder": "Enter the user email"
+            "placeholder": "输入用户 email"
           },
           "password": {
-            "label": "Password",
-            "placeholder": "Enter the user password"
+            "label": "密码",
+            "placeholder": "输入用户密码"
           },
           "password_confirmation": {
-            "label": "Confirm Password",
-            "placeholder": "Confirm the password"
+            "label": "确认密码",
+            "placeholder": "确认密码"
           }
         }
       },
@@ -660,15 +660,15 @@
       "site_settings": {
         "fields": {
           "value": {
-            "placeholder": "Enter link here..."
+            "placeholder": "在此输入链接..."
           }
         }
       },
       "roles": {
         "fields": {
           "name": {
-            "label": "Role Name",
-            "placeholder": "Enter a role name..."
+            "label": "角色名称",
+            "placeholder": "输入角色名称..."
           }
         }
       }

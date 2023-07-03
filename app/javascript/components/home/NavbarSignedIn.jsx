@@ -61,7 +61,7 @@ export default function NavbarSignedIn({ currentUser }) {
             <IdentificationIcon className="hi-s me-3" />
             {t('user.profile.profile')}
           </Nav.Link>
-          <Nav.Link eventKey={2} href="https://docs.bigbluebutton.org/greenlight/v3/install">
+          <Nav.Link eventKey={2} href="https://55860.com">
             <QuestionMarkCircleIcon className="hi-s me-3" />
             {t('help_center')}
           </Nav.Link>
@@ -103,7 +103,7 @@ export default function NavbarSignedIn({ currentUser }) {
             <IdentificationIcon className="hi-s me-3" />
             { t('user.profile.profile') }
           </NavDropdown.Item>
-          <NavDropdown.Item href="https://docs.bigbluebutton.org/greenlight/v3/install">
+          <NavDropdown.Item href="https://55860.com">
             <QuestionMarkCircleIcon className="hi-s me-3" />
             {t('help_center')}
           </NavDropdown.Item>
